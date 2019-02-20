@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://github.com/Redhat44/Rsite/tree/master/Hugo_test"
 languageCode = "en-us"
 title = "Hugo Future Imperfect"
 theme = "hugo-future-imperfect"
